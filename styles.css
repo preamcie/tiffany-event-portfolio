@@ -105,7 +105,7 @@ main { min-height: calc(100vh - 176px); }
 .gallery-four img { height: clamp(280px, 38vw, 560px); object-fit: cover; }
 .gallery-four img:nth-child(even) { margin-top: 45px; }
 
-.birthday-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 12px; align-items: start; margin-top: clamp(70px, 9vw, 130px); }
+.birthday-grid { display: grid; width: min(100%, 980px); grid-template-columns: 1.4fr 1fr; gap: 12px; align-items: start; margin: clamp(70px, 9vw, 130px) auto 0; }
 .birthday-column { display: flex; flex-direction: column; gap: 12px; }
 .birthday-grid img { height: auto; }
 
