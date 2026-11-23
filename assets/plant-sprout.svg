@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 56" role="img" aria-labelledby="title desc">
+  <title id="title">Young sprout</title>
+  <desc id="desc">A hand-drawn seedling growing from a fine line of soil.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 48c10-2 17 1 25-1 8-3 16 2 24 0 9-2 20 2 32 0" stroke="#8d7e6b" stroke-width="1.4"/>
+    <path d="M18 51c7-1 13 1 19 0m31 0c5-1 10 0 15-1" stroke="#b9ae9f" stroke-width="1"/>
+    <path d="M49 47c0-8 1-17 0-27" stroke="#4f5845" stroke-width="1.6"/>
+    <path d="M49 31c-7-9-16-10-23-7 4 8 12 12 23 7Z" fill="#a3aa82" stroke="#59604b" stroke-width="1.1"/>
+    <path d="M50 25c5-8 13-11 21-9-2 9-10 14-21 9Z" fill="#c1c49f" stroke="#59604b" stroke-width="1.1"/>
+    <path d="M49 20c-1-8 2-14 7-17 4 7 2 14-7 17Z" fill="#d0ceb2" stroke="#59604b" stroke-width="1.1"/>
+    <path d="M29 25c8 1 14 3 20 6m20-14c-7 3-13 5-19 8m6-21c-3 6-5 10-7 16" stroke="#737a62" stroke-width=".8" opacity=".8"/>
+  </g>
+</svg>
